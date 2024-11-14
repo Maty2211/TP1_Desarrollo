@@ -1,0 +1,10 @@
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe.config
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.exe
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\bin\Debug\TrabajoPractico1.pdb
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Form1.resources
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.Properties.Resources.resources
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.exe
+C:\Users\usuario\Desktop\Facultad\Desarrollo de software\TrabajoPractico1\TrabajoPractico1\obj\Debug\TrabajoPractico1.pdb
